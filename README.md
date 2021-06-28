@@ -1,5 +1,5 @@
 # Vehicle-detection
-Automate Highway Asset Defect Detection Solution and Artificial Intelligence (AI) Solution
+Automate Highway Vehicle Detection Solution and Artificial Intelligence (AI) Solution
 
 
 *model download faster_rcnn
