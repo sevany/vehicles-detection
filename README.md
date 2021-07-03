@@ -1,5 +1,5 @@
 # Vehicle-detection
-Automate Highway Vehicle Detection Solution and Artificial Intelligence (AI) Solution
+contoh inferencing menggunakan faster_rcnn
 
 # Requirement
     cuda version : 11.1
